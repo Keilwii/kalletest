@@ -76,7 +76,7 @@ char			*ft_strsub(char const *s, unsigned int start, size_t len);
 char			*ft_strjoin(char const *s1, char const *s2);
 unsigned int	ft_strcntfirstchar(char *str, const char *charset);
 unsigned int	ft_strcntlastchar(char *str, const char *charset);
-char			*ft_strtrim(char const *s1, char const *set);
+char			*ft_strtrim(char const *s1);
 char			**ft_strsplitchrset(char *str, const char *charset);
 char			*ft_strsub(char const *s, unsigned int start, size_t len);
 
