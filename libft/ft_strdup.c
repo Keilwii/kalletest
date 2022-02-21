@@ -31,4 +31,3 @@ char	*ft_strdup(const char *str)
 	result[i] = '\0';
 	return (result);
 }
-
