@@ -32,4 +32,3 @@ char	*ft_strsub(char const *s, unsigned int start, size_t len)
 	final_str[i] = '\0';
 	return (final_str);
 }
-
