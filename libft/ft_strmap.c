@@ -31,4 +31,3 @@ char	*ft_strmap(char const *s, char (*f)(char))
 	final_str[i] = '\0';
 	return (final_str);
 }
-
