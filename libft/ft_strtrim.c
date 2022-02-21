@@ -49,4 +49,3 @@ char	*ft_strtrim(char const *str)
 	str_new[k] = '\0';
 	return (str_new);
 }
-
