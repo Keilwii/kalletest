@@ -78,4 +78,3 @@ char	**ft_strsplit(char const *s, char c)
 		return (NULL);
 	return (ft_split(s, c));
 }
-
